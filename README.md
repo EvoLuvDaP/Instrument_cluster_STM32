@@ -1,2 +1,9 @@
-# Instrument_cluster_STM32
-Demostating an instrument cluster in commercial vehicles. Each nodes in CAN network frequently sending data to this module where users  effectively interct with touch-screen (mini dashboard, reset airbag etc) and supervise overall status.
+# Instrument cluster STM3
+Educational grade firmware and reference implementation for STM32 MCUs
+Electronic components I used: STM32F407VET6 + ILI9341.
+<p align="center">
+  <img src="assets/demo.gif" alt="Instrument cluster demo animation" width="640" />
+</p
+<p align="center">
+  <img src="assets/demo.gif" alt="Instrument cluster demo animation" width="640" />
+</p
