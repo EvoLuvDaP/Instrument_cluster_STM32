@@ -4,7 +4,7 @@ Electronic components I used: STM32F407VET6 + ILI9341.
 <div align="center">
   <img src="Img/d064f724-718f-4ddb-907f-fbcb4982ec22.png" alt="Comprehensive Layout" width="640" />
 </div>
-<p align="center">
+<div align="center">
   <img src="Img/IMG_0197.gif" alt="Instrument cluster demo animation" width="640" />
 </div>
 ### How to import a project in CubeMX
