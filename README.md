@@ -8,15 +8,15 @@ Electronic components I used: STM32F407VET6 + ILI9341.<br>
   <img src="Img/IMG_0197.gif" alt="Instrument cluster demo animation" width="640" />
 </div>
 
-###Block Diagram
+### Block Diagram
 Depending on what you prefer, I picked MCCP2551 for this project.<br>
 
 <div align="center">
   <img src="Img/blockdiagram.png" alt="Instrument cluster demo animation" width="640" />
-</div>
+</div> 
 
 > [!NOTE]
-> The ratio of the voltage divider I used is 4.24, while the input battery source ranges from 8.25 to 12.6 as a 3S Li-ion (check datasheet).<br>
+> The ratio of the voltage divider I used is 4.24, while the input battery source ranges from 8.25 to 12.6 as a 3S Li-ion (check datasheet).
 ```
 	float volt = HAL_ADC_GetValue(&hadc1) * 3.3f/4095.0f * 4.24f;
 	float pct  = (volt - 8.25f)/(12.6f - 8.25f) * 100.0f;
