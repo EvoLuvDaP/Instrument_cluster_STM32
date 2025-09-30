@@ -1,0 +1,2 @@
+../lvgl/src/draw/lv_draw_triangle.c:43:6:lv_draw_triangle	1
+../lvgl/src/draw/lv_draw_triangle.c:62:6:lv_draw_polygon	30

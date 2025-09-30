@@ -1,0 +1,4 @@
+../lvgl/ui/ui.c:34:18:getLvglObjectFromIndex	2
+../lvgl/ui/ui.c:41:6:loadScreen	1
+../lvgl/ui/ui.c:47:6:ui_init	1
+../lvgl/ui/ui.c:52:6:ui_tick	1

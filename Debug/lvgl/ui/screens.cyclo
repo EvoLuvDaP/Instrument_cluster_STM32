@@ -1,0 +1,9 @@
+D:/ClassRoom/ComputerNetworking/Final/F407_LVGL/lvgl/src/hal/../misc/lv_color.h:602:26:lv_color_make	1
+D:/ClassRoom/ComputerNetworking/Final/F407_LVGL/lvgl/src/hal/../misc/lv_color.h:607:26:lv_color_hex	1
+../lvgl/ui/screens.c:19:6:create_screen_main	1
+../lvgl/ui/screens.c:415:6:tick_screen_main	1
+../lvgl/ui/screens.c:418:6:create_screen_stats_system	1
+../lvgl/ui/screens.c:714:6:tick_screen_stats_system	1
+../lvgl/ui/screens.c:724:6:tick_screen	1
+../lvgl/ui/screens.c:727:6:tick_screen_by_id	1
+../lvgl/ui/screens.c:731:6:create_screens	1
