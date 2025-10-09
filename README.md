@@ -1,4 +1,4 @@
-# Instrument cluster STM3
+# Instrument cluster STM32
 Educational grade firmware and reference implementation for STM32 MCUs.<br>
 Electronic components I used: STM32F407VET6 + ILI9341.<br>
 <div align="center">
